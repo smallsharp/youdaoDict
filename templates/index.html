@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>在线翻译</title>
+    <script src="https://cdn.staticfile.org/jquery/2.0.0/jquery.min.js"></script>
+</head>
+
+
+<style type="text/css">
+    .src {
+        width: 300px;
+        height: 200px;
+        background: #f2f2f2;
+        position: relative;
+        z-index: 1;
+        overflow: hidden;
+        border-radius: 6px;
+        margin-right: 10px;
+        padding: 18px 50px 18px 18px;
+        border: 1px solid transparent;
+    }
+
+    textarea {
+        resize: none;
+    }
+
+    .input__original__area {
+        display: block;
+        font-family: ArialMT, "Microsoft YaHei", Arial, sans-serif, Helvetica, STHeiti;
+        width: 100%;
+        min-height: 156px;
+        padding: 0;
+        border: 0;
+        background: 0 0;
+        font-size: 22px;
+        color: #333;
+        line-height: 30px;
+        overflow: auto;
+    }
+
+    #trans {
+        margin-top: 20px;
+    }
+
+</style>
+
+<body>
+<div class="src">
+    <textarea id="inputOriginal" dir="auto" class="input__original__area" placeholder="请输入你要翻译的文字或网址"></textarea>
+    <button id="trans">点我翻译</button>
+</div>
+
+<div style="height: 50px"></div>
+<div class="src">
+    <textarea id="output" dir="auto" class="input__original__area" placeholder="这里是翻译结果区域"></textarea></div>
+
+<script type="text/javascript">
+
+    $('#trans').click(function () {
+        var data = {
+            word: $('#inputOriginal').val()
+        }
+        $.ajax({
+            method: 'post',
+            url: "{{ url_for('trans') }}",
+            data: data,
+            dataType: 'json',
+            success: function (r) {
+                tar = r.translateResult[0][0].tgt
+                $('#output').val(tar)
+            }
+        })
+    })
+
+</script>
+</body>
+</html>

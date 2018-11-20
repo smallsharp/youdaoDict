@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6014d9fd-dcf6-48b0-b16a-eea8cb723ddb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FlaskSF/pldService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterHome/front/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesterHome/server/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flasktest/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider_demo/BeautifulSoup库/1.基础用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider_demo/BeautifulSoup库/2.制作新浪新闻网络爬虫.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider_demo/BeautifulSoup库/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider_demo/爬虫/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider_demo/爬虫/doutu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider_demo/爬虫/doutu2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider_demo/爬虫/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zlktqa/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Python学习.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/preferred-vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.pydevproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/BeautifulSoup库/1.基础用法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/BeautifulSoup库/2.制作新浪新闻网络爬虫.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/BeautifulSoup库/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Mysql数据库/MysqlUtil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Mysql数据库/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Mysql数据库/创建数据库表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Mysql数据库/基础操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Mysql数据库/数据库插入.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Mysql数据库/数据库更新.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Mysql数据库/数据库查询.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Mysql数据库/数据库测试.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Numpy常用/1.Numpy属性.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Numpy常用/2.Numpy创建array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Numpy常用/3.Numpy基础运算1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Numpy常用/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Numpy常用/函数之argsort().py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Numpy常用/函数之tile().py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/1.基本窗口控件/01_QMainWindow/01.创建主窗口.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/1.基本窗口控件/01_QMainWindow/02.主窗口居中.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/1.基本窗口控件/01_QMainWindow/03.关闭主窗口.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/1.基本窗口控件/01_QMainWindow/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/1.基本窗口控件/02_QWidget/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/1.基本窗口控件/02_QWidget/屏幕坐标系统显示.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/1.基本窗口控件/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/1.基本窗口控件/下拉框.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/AndoridTool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/AndroidService.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/Monkey/controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/Monkey/icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/Monkey/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/Monkey/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/exit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/pytest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【一】基本功能/1.简单的例子(附注释).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【一】基本功能/2.应用程序的图标.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【一】基本功能/3.显示提示语 .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【一】基本功能/4.关闭窗口.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【一】基本功能/5.消息框.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【一】基本功能/6.窗口显示在屏幕的中间.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【一】基本功能/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【二】布局管理/1.绝对定位.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【二】布局管理/2.框布局 Boxlayout .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【二】布局管理/3.表格布局 QGridLayout .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【二】布局管理/4.评论的例子.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【二】布局管理/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/.cache/v/cache/lastfailed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/1.信号和槽都是内置的.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/2.信号内置，槽自定义.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/2.重新实现事件处理器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/3.事件发送者.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/3.信号自定义，槽内置.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/4.信号和槽都是自定义.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/4.发出信号.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/6.自定义信号带参数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/7.自定义信号带参数2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【五】事件和信号/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【六】对话框/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【六】对话框/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【六】对话框/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【六】对话框/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【六】对话框/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【四】菜单和工具栏/1.状态栏.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【四】菜单和工具栏/2.菜单栏.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【四】菜单和工具栏/3.工具栏.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【四】菜单和工具栏/4.把他们放一起.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/【四】菜单和工具栏/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/01_winSignalSlot01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/buildSignalSlot03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/buildinSignalSlot01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/buildinSignalSlot02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/connSlotsByName01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/connSlotsByName02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/pysignalSlot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/pysignalSlot2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/signalSlot01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/signalSlot02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/signalSlot03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/信号与槽/winSignalSlot04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/关于布局.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/关于布局2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/关于布局3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/多线程/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/多线程/thread01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/多线程/thread02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/多线程/thread03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/01_layoutAddStretch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/02_layoutAddStretch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/03_layoutAddStretch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/04_vboxLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/05_gridLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/06_gridLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/07_fromLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/08_nestLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/09_nestLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/10_QSplitter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/11.layout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/布局管理/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/弹出框大全.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/控件/1.QCheckBox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/控件/2.开关按钮 Toggle button.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/控件/3.滑动条 QSlider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/控件/4.进度条QProgressBar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/控件/5.日历控件 QCalendarWidget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/控件/6.QPixmap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/控件/7.文本框 QLineEdit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/控件/8.QSplitter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/控件/9.下拉列表 QComboBox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/PyQt5/控件/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/crawler/ToutiaoJiePai.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/1.读取图片.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/10.PIL和OpenCV图像转换.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/11.视频的读取显示和保存.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/12.保存视频.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/2.获取图像的属性.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/3.生成指定大小的空图片.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/4.cvtColor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/4.cvtColor2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/4.访问和操作图像像素.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/5.图片的缩放与换色.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/6.图像ROI（region of interest）.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/7.转换颜色空间.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/8.几何变换之平移.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/8.几何变换之旋转.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/8.几何变换之缩放.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/9,绘图.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/ball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/state.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/test1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/opencv使用/test_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/other/Argparse使用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/other/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/other/斐波那契数列.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/1.基本使用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/10.分组.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/11.分组2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/12.绘制动态图.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/13.绘制动态图2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/14.绘制动态图3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/2.数据的统计与排序.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/3.数据的筛选.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/4.pyplot绘制图形1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/5.pyplot绘制图形2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/6.seaborn的使用1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/7.seaborn的使用2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/8.数据索引的设置与复位.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/9.根据索引筛选数据.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/abc.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/olympics.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/过关题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/pandas使用/过关题2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/1. 基础用法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/2. Post的用法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/3. Session会话维持.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/4. status_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/5. 证书.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/6. 代理.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/7. 异常处理.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/8. 认证.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/calls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/interface.prop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/mParser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/res_content.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requests库/实例.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/tkinter使用/1. Hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/tkinter使用/2. MonkeyTool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/tkinter使用/5. 登录Demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/tkinter使用/TK.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/tkinter使用/TK测试.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/tkinter使用/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/tkinter使用/gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/tkinter使用/gui2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/tkinter使用/tkinter使用2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/tkinter使用/usrs_info.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/tkinter使用/welcome.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/并发编程/1.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/并发编程/1.2线程信号标志.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/并发编程/1.3multi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/并发编程/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/机器学习/abcd.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/机器学习/kNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/机器学习/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/机器学习/线性回归2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/机器学习/线性回归Demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/1.类方法和静态方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/2.私有化属性和方法的处理.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/3.类和类对象.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/abc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/abc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/property的使用方式1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/property的使用方式2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/with的用法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/三大特性/1.继承基本概念.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/三大特性/2.继承的访问权限.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/三大特性/3.继承的查找顺序.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/三大特性/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/三大特性/关于继承.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/三大特性/继承用法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/内置方法__call__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/内置方法__setattr__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/内置方法__str__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/描述器使用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/描述器定义方式1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/描述器定义方式2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/测试类.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/类内置方法__setItem__等.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/类属性限制.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/类装饰器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/面向对象/综合案例.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/ADB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/ADB常用命令文档.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/AdbTools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/AndroidPerformance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/Android设备基本信息.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/Key.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/build.prop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/memory.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appium/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appium/simple_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appium/taidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appium/testdemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/dict字典/1.字典的基础用法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/dict字典/2.字典的遍历与排序.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/dict字典/3.字典的浅复制.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/dict字典/4.字典的常用方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/dict字典/5.使用内建函数sorted排序.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/dict字典/6.使用operator.itemgetter排序.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/list列表/1.[重要]列表的常见用法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/list列表/2.list的切片.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/list列表/3.[重要]列表生成式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/list列表/4.列表的遍历.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/list列表/5.列表的排序.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/list列表/6.随机数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/list列表/7.生成列表的方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/list列表/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/os模块/1. os和os.path常用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/os模块/2. os.path常用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/os模块/3. os.open.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/os模块/4. os.system用法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/os模块/5. 实际应用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/os模块/6.subprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/os模块/7.subprocess2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/os模块/devices.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/os模块/meminfo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/set集合/Set用法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/set集合/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/set集合/集合基本用法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/str字符串/1.字符串的基础用法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/str字符串/2.字符串的格式化.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/str字符串/3.[重要]最常用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/str字符串/4.字符串不可变.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/str字符串/5.字符串的常用方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/str字符串/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/常用遍历/Python循环.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/dif.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/diff.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/lines.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/pickle使用/Pickle使用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/pickle使用/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/pickle使用/pickle_example.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/sysArgv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/对比文件具体内容1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/对比文件具体内容2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/文件对比.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/文件读取和写入/1.[重要]文件读写操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/文件读取和写入/2.文件操作序列化.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/文件读取和写入/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/文件读取和写入/age_name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/文件读取和写入/name_age.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Excel/2018_02_03.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Excel/Pandas解析Excel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Excel/_BaseExcel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Excel/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Excel/excel.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Excel/操作Excel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Excel/解析导入表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Prop/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Prop/ids.prop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Prop/解析prop配置文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Xml/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Xml/content.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Xml/解析xml格式文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Yaml/testYaml.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析Yaml/解析Yaml格式文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/解析json格式的字符串.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/文件读写/遍历指定目录文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/时间模块/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/时间模块/时间日历1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/时间模块/时间日历2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/时间模块/时间日历3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/时间模块/时间日历4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/正则/1.[重要]常用方式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/正则/2. 正则的和split.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/正则/3. 实际应用1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/装饰器/1.嵌套函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/装饰器/2.闭包.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/装饰器/3.装饰器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/装饰器/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interface/TestReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interface/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interface/mailTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interface/yunche.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/MySqlHelper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/Play图片访问.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/Play所有图片的请求.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/mProgram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/modelJson.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/mtaidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/temp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/wuta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/新定制页面.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/检查模型包是否一致.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/访问所有DAE文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taidu/访问数据库.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/AndroidTool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/Form2Json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/__init__.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/youdaoDict$fanyi.coverage" NAME="fanyi Coverage Results" MODIFIED="1542694017504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/youdaoDict$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1542685081424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1714620506">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="py" value="2" />
+          <entry key="ts" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Python" value="2" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="734" />
+          <entry key="py" value="737" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="734" />
+          <entry key="Python" value="737" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+                <marker date="1542696049200" expanded="true" signature="224:294" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fanyi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+                <marker date="1542694015241" expanded="true" signature="259:260" ph="..." />
+                <marker date="1542694015241" expanded="true" signature="259:264" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="40" column="25" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fanyi.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-272" />
+    <option name="y" value="50" />
+    <option name="width" value="1280" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="youdaoDict" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youdaoDict" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youdaoDict" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youdaoDict" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.fanyi">
+    <configuration name="fanyi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="youdaoDict" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fanyi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <option name="additionalOptions" value="" />
+      <option name="application" value="" />
+      <option name="flaskDebug" value="true" />
+      <module name="youdaoDict" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="youdaoDict" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="youdaoDict" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.youdaoDict" />
+      <item itemvalue="Flask server.Flask (app.py)" />
+      <item itemvalue="Python.fanyi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fanyi" />
+        <item itemvalue="Flask server.Flask (app.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6014d9fd-dcf6-48b0-b16a-eea8cb723ddb" name="Default Changelist" comment="" />
+      <created>1542684053267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542684053267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13605899" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.42917848" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41076487" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/flask_env/Lib/hashlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1542696049200" expanded="true" signature="224:294" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fanyi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+            <marker date="1542694015241" expanded="true" signature="259:260" ph="..." />
+            <marker date="1542694015241" expanded="true" signature="259:264" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
